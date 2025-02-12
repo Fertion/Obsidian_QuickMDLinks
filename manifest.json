@@ -1,0 +1,10 @@
+{
+	"id": "quick-md-link",
+	"name": "QuickMDLink",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Instant linking",
+	"author": "Fertion",
+	"authorUrl": "https://github.com/Fertion",
+	"isDesktopOnly": false
+  }
